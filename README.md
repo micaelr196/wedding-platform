@@ -29,6 +29,8 @@ Uma plataforma self-service que permite a qualquer casal criar, personalizar e p
 - [`docs/research/benchmark.md`](docs/research/benchmark.md) — análise de concorrentes
 - [`docs/research/interview-guide.md`](docs/research/interview-guide.md) — guia de entrevistas (PT)
 
+- [Link LucidSpark](https://lucid.app/lucidspark/54101282-9925-4105-84ab-5299481eb333/edit?beaconFlowId=566D230D688B782F&invitationId=inv_966d2db1-c3e0-4e32-a6e6-932d8e089288&page=0_0#) - Product Discovery & Definition
+
 ## Stack
 
 | Camada | Tecnologia |

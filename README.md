@@ -19,7 +19,7 @@ Uma plataforma self-service que permite a qualquer casal criar, personalizar e p
 
 ## Estado
 
-**Fase:** Descoberta de produto — brainstorming e definição do MVP concluídos. Entrevistas a 7 casais planeadas.
+**Fase:** Descoberta de produto — modelo de negócio e MVP definidos. Protótipo em construção.
 
 ## Documentação
 

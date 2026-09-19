@@ -6,15 +6,15 @@ Os noivos em Portugal não têm uma solução self-service, acessível e dedicad
 
 - **Gratuito mas genérico** (Canva) — sem RSVP, sem gestão de convidados, não é uma plataforma de casamentos
 - **Caro e gerido por terceiros** (Digital Yes, Fixdate) — o casal não tem autonomia, depende de designers, preço mínimo €175
-- **Acessível mas limitado** (Wediweb €68) — sem tier gratuito para testar, sem upgrade path
+- **Acessível mas limitado** (Wediweb €68) — sem upgrade path, sem RSVP robusto
 
 ## A Solução
 
 Plataforma self-service de convites digitais de casamento:
 
 - Editor visual com preview em tempo real
-- RSVP integrado com gestão de convidados no dashboard
-- QR codes por convidado (planos superiores)
+- RSVP integrado com gestão de convidados no dashboard (Premium+)
+- QR codes por convidado (Premium+)
 - Três planos por evento, pré-pagos, com upgrade disponível (cobra-se a diferença)
 - Mercado inicial: Portugal
 
@@ -22,22 +22,98 @@ Plataforma self-service de convites digitais de casamento:
 
 - **Target:** casais noivos em Portugal a planear o casamento
 - **Lançamento:** Portugal exclusivamente
-- **Expansão:** a definir após validação do mercado português
+- **Expansão:** quando a receita acumulada atingir €50.000
+- **Primeiro mercado de expansão:** Brasil (mesma língua, mercado 10x maior)
+- **Segundo mercado de expansão:** Espanha
+
+## Modelo de Negócio
+
+### Pagamento
+- One-time payment por evento, pré-pago no acto de criação
+- Upgrades permitidos a qualquer momento (paga-se apenas a diferença)
+- Downgrades não permitidos
+- Sem política de reembolso
+
+### Monetização por tier
+- **Basic:** Google Ads (relacionados com casamentos) no backoffice — nunca no convite público
+- **Premium / Ultra:** sem publicidade
+
+### Monetização de fornecedores (roadmap)
+- **Fase 1 (lançamento):** rede de anúncios de terceiros (Google Ads) no backoffice do Basic
+- **Fase 2 (futuro):** catálogo de fornecedores — registo anual pago + renovação anual; sem revenue share
+
+### Modelo de referral
+| Quem | Incentivo para o referrer | Incentivo para o novo cliente |
+|---|---|---|
+| Casal refere casal | Crédito de €15 para upgrade de plano | €10 de desconto na compra |
+| Parceiro wedding planner | Fee fixo por referral convertido (ex: €10/venda) | Código de desconto via planner |
+
+- Os planners pagam uma fee anual de registo para obter link de referral + estatuto de parceiro (modelo igual ao dos fornecedores)
+- Os créditos de casais só são resgatáveis em upgrades — mantêm o valor dentro da plataforma
+- Sem revenue share — apenas fees fixas
+
+## Canais de Aquisição
+
+- Instagram / redes sociais (principal no lançamento)
+- Feiras de casamento
+- Referrals (ver modelo acima)
+- Parcerias com wedding planners (fase 2)
+
+## Posicionamento Competitivo
+
+- **Agora:** profundidade de personalização + modelo 100% self-service
+- **Visão futura:** plataforma completa de gestão de casamento/evento para casais autónomos e wedding planners — uma experiência end-to-end além dos convites
+
+## MVP — Scope
+
+**MVP = Basic + Premium apenas.** O Ultra (Fase 2) lança depois de validar o modelo com utilizadores reais.
+
+### Features do MVP
+
+**Core (todos os tiers)**
+- Signup e autenticação self-serve
+- Selecção de plano (Basic ou Premium) com pagamento upfront
+- Fluxo de upgrade: Basic → Premium, paga-se apenas a diferença
+- Expiração do evento por tier (Basic: D+1; Premium: 1 ano pós-evento)
+- Dashboard / backoffice do casal para gerir o evento
+
+**Editor de convite**
+- Basic: templates limitados, opções de personalização restritas
+- Premium: personalização completa, múltiplos designs de convite
+
+**QR code** — gerado para todos os tiers
+
+**Gestão de convidados**
+- Basic: lista de convidados limitada
+- Premium: gestão completa de convidados
+
+**RSVP** — apenas Premium (confirmações, restrições alimentares, +1s)
+
+**Analytics** — apenas Premium (visualizações do convite, taxa de RSVP, contagem de confirmações)
+
+**Branding**
+- Basic: branding da plataforma visível no convite
+- Premium: sem branding da plataforma
+
+**Ads** — Basic: Google Ads no backoffice; nunca no convite público
+
+**Referral** — códigos de referral para casais (€15 crédito / €10 desconto)
+
+### Fora do MVP (Fase 2)
+- Tier Ultra (galeria, chat, domínio personalizado, playlist, página de alojamento)
+- Catálogo de fornecedores e registo de parceiros
+- Programa de parcerias com wedding planners
+- Editor drag-and-drop livre (canvas tipo Canva)
+- Plano de mesa interactivo
+- Multilingue
+- App mobile nativa
 
 ## Princípios do Produto
 
 - **Self-service first** — o casal deve conseguir criar o convite sem ajuda
 - **MVP antes de features** — lançar com o mínimo que seja genuinamente útil
 - **Portugal first** — língua, cultura e contexto local em primeiro lugar
-- **Preço justo** — acessível sem ser gratuito; o modelo freemium original foi substituído por um modelo de três tiers pagos, com o tier de entrada a €75
-
-## O que NÃO é o MVP
-
-- Editor drag-and-drop livre (canvas livre tipo Canva) — Fase 2
-- Plano de mesa interactivo — Fase 2
-- Multilingue — Fase 2
-- Integração com fornecedores de casamento — Fase 2
-- App mobile nativa — Fase 2
+- **Preço justo** — acessível sem ser gratuito; sem tier gratuito
 
 ## Ligação ao Lucid Spark
 

@@ -25,6 +25,7 @@ Uma plataforma self-service que permite a qualquer casal criar, personalizar e p
 
 - [`docs/product/context.md`](docs/product/context.md) — visão, mercado e princípios
 - [`docs/product/pricing.md`](docs/product/pricing.md) — planos e feature matrix
+- [`docs/product/flows.md`](docs/product/flows.md) — user flows do MVP
 - [`docs/architecture/overview.md`](docs/architecture/overview.md) — arquitectura e stack
 - [`docs/research/benchmark.md`](docs/research/benchmark.md) — análise de concorrentes
 - [`docs/research/interview-guide.md`](docs/research/interview-guide.md) — guia de entrevistas (PT)

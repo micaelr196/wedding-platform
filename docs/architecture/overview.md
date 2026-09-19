@@ -45,9 +45,14 @@
 
 Upgrade = novo Stripe payment intent com o valor diferencial (ver `docs/product/pricing.md`). O plano do evento é actualizado após confirmação de pagamento via webhook Stripe.
 
+## Decisões Fechadas
+
+| Decisão | Escolha | Notas |
+|---|---|---|
+| URL do convite público | Path-based: `plataforma.pt/convite/[slug]` | Subdomínio por casal é Fase 2 / Ultra |
+| Autenticação | Email + password tradicional | Magic link e OAuth (Google) são Fase 2 |
+
 ## Decisões em Aberto
 
-- Domínio e sub-domínio dos convites públicos (ex: `nomedocasal.plataforma.pt` vs. `plataforma.pt/convite/abc123`)
 - Estratégia de QR code: geração on-the-fly vs. pré-gerado e guardado
-- Autenticação: magic link por email vs. password tradicional vs. OAuth (Google)
 - Nome do produto (TBD)

@@ -110,7 +110,7 @@ Plataforma self-service de convites digitais de casamento:
 
 ## Nome do Produto
 
-**Convidamos** — definido no protótipo. Design system: Organic. Conteúdo de exemplo: Micael & Catarina · 14 de Junho de 2027 · Quinta das Lágrimas, Coimbra (data de 2027 para o contador de dias ficar positivo).
+**TBD** — a definir entre Micael Rosa e Pedro Cruz. Nome placeholder usado no protótipo: "Convidamos" (não é o nome oficial). Design system do protótipo: Organic. Conteúdo de exemplo: Micael & Catarina · 14 de Junho de 2027 · Quinta das Lágrimas, Coimbra (data de 2027 para o contador de dias ficar positivo).
 
 ## Protótipo
 

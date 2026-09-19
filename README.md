@@ -1,4 +1,4 @@
-# Convidamos — Wedding Invitation Platform
+# Wedding Invitation Platform (nome TBD)
 
 > PaaS de convites digitais de casamento para o mercado português.
 
@@ -19,7 +19,11 @@ Uma plataforma self-service que permite a qualquer casal criar, personalizar e p
 
 ## Estado
 
-**Fase:** Protótipo concluído — 17 ecrãs clicáveis em Claude Design (Convidamos.dc.html), com design system Organic. Deck de produto (13 slides + PPTX) também produzido.
+**Fase:** Protótipo concluído — 17 ecrãs clicáveis em Claude Design, com design system Organic. Deck de produto (13 slides + PPTX) também produzido.
+
+**Protótipo:** [Abrir no Claude Design](https://claude.ai/design/p/53bb0d72-aba4-43e4-9a5f-45968220e6f5)
+
+**Nome do produto:** A definir entre Micael Rosa e Pedro Cruz. Nome placeholder usado no protótipo: "Convidamos" (não é o nome oficial).
 
 ## Documentação
 

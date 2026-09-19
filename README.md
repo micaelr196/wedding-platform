@@ -1,4 +1,4 @@
-# Wedding Invitation Platform
+# Convidamos — Wedding Invitation Platform
 
 > PaaS de convites digitais de casamento para o mercado português.
 
@@ -19,7 +19,7 @@ Uma plataforma self-service que permite a qualquer casal criar, personalizar e p
 
 ## Estado
 
-**Fase:** Descoberta de produto — modelo de negócio e MVP definidos. Protótipo em construção.
+**Fase:** Protótipo concluído — 17 ecrãs clicáveis em Claude Design (Convidamos.dc.html), com design system Organic. Deck de produto (13 slides + PPTX) também produzido.
 
 ## Documentação
 

@@ -108,6 +108,17 @@ Plataforma self-service de convites digitais de casamento:
 - Multilingue
 - App mobile nativa
 
+## Nome do Produto
+
+**Convidamos** — definido no protótipo. Design system: Organic. Conteúdo de exemplo: Micael & Catarina · 14 de Junho de 2027 · Quinta das Lágrimas, Coimbra (data de 2027 para o contador de dias ficar positivo).
+
+## Protótipo
+
+- **Ficheiro:** Convidamos.dc.html (Claude Design — 17 ecrãs clicáveis)
+- **Design system:** Organic
+- **Funcionalidades do protótipo:** seletor de ecrã na barra inferior + interruptor global Básico/Premium (muda navegação, limites, anúncios, rodapé do convite e acesso ao RSVP)
+- **Deck de produto:** 13 slides com notas de orador + PPTX exportado (convidamos-mvp.pptx)
+
 ## Princípios do Produto
 
 - **Self-service first** — o casal deve conseguir criar o convite sem ajuda
